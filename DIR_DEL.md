@@ -12,5 +12,6 @@ Can be seen in the `database.php`, call the import method, This function is loca
 The line is the key, you can see that there is no restriction on our input, which means you can use `../` etc, so there is any directory deletion here.
 
 ![](https://github.com/AvaterXXX/XiaoCms/blob/master/image/dirdel_5.png)
+
 First create a new directory in the root directory.The submitted path is `../../1`
 ![](https://github.com/AvaterXXX/XiaoCms/blob/master/image/dirdel_6.png)
